@@ -103,7 +103,6 @@ agrismart-av01/
 | 📄 Documentação (AV01) | [Agri Smart.pdf](./Agri%20Smart.pdf) |
 | ⚡ Simulação Tinkercad (Amanda) | [Circuito Válvula Solenóide](https://www.tinkercad.com/things/8gYeofGD9lP-grand-curcan?sharecode=O0AvYXGHf59nbXQRadszevT4JtV-biezNFlxqrj7DvQ) |
 | ⚡ Simulação Tinkercad (Maria) | [Circuito Válvula Solenóide](https://www.tinkercad.com/things/9JTYdJ0XMlV) |
-| 💻 Repositório da Maria | [MariihCosta/agrismart-av01](https://github.com/MariihCosta/agrismart-av01) |
 
 ---
 
