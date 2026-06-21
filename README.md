@@ -100,7 +100,7 @@ agrismart-av01/
 
 | Artefato | Link |
 |----------|------|
-| 📄 Documentação (AV01) | [Agri Smart.pdf](AgroSmart_final.pdf) |
+| 📄 Documentação (AV01) | [AgroSmart_final.pdf](AgroSmart_final.pdf) |
 | ⚡ Simulação Tinkercad (Amanda) | [Circuito Válvula Solenóide](https://www.tinkercad.com/things/8gYeofGD9lP-grand-curcan?sharecode=O0AvYXGHf59nbXQRadszevT4JtV-biezNFlxqrj7DvQ) |
 | ⚡ Simulação Tinkercad (Maria) | [Circuito Válvula Solenóide](https://www.tinkercad.com/things/9JTYdJ0XMlV) |
 
